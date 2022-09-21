@@ -19,4 +19,6 @@
 - GUIs
 - Web Services
 
+All are long-lived state frequently accessed
+
 
