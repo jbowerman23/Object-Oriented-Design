@@ -21,4 +21,15 @@
 
 All are long-lived state frequently accessed
 
+---
+
+## Classes
+- Constructor
+- Method
+- fields/properties/memer variable
+- instances 
+  - a specific one of a blueprint
+- access restrictions
+
+
 
