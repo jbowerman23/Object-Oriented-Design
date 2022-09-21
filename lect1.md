@@ -88,5 +88,8 @@ class Student {
 
 ```
 
+---
 
-
+## Class designer vs. Client
+- Class designer, come up with interface, implementation
+- Client, has to use the class
