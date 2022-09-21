@@ -31,5 +31,35 @@ All are long-lived state frequently accessed
   - a specific one of a blueprint
 - access restrictions
 
+---
+
+## Encapsulation
+  
+  ```c++
+  #include <iostream> // Allows us to read to or write from the console
+  #include <istream>
+  
+  string readContnents(string filename);
+  ifstream input(filename);
+   
+  int fileId;
+  int readPos;
+   
+  int i;
+  input >> i; 
+  
+  cin >> i;
+  ```
+ 
+Have classes to group and create simplier interfacee
+
+- Show interface
+- Hide implementation
+
+##ifstream:
+- subclass of istream
+- cin is a different istream sub class
+
+
 
 
