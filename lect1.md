@@ -60,6 +60,33 @@ Have classes to group and create simplier interfacee
 - subclass of istream
 - cin is a different istream sub class
 
+---
+
+## Cohesion vs Coupling
+- Cohesion is how well things go together
+- Coupling is how much different things are mixed together
+
+Minimum interactions needed, coupling is necessary, but want to minimuze it. <br>
+0% coupling is just a bunch of different functions that dont interact with each other at all. <br>
+Want to try to keep functions small (about 10 lines).
+
+```c++
+class Student {
+  private:
+  string firstName;
+  string lastName;
+  char middleInitial;
+  long studentId;
+  string major;
+  
+  public:
+  string makeFormalName(){
+    return lastName + ", " + firstName + " " + middleInitial + "."
+  }
+  
+}
+
+```
 
 
 
