@@ -1,5 +1,9 @@
 # Object Oriented Design
-## By Jessica Bowerman
+### By Jessica Bowerman
+---
+
+[Canvas Homepage](https://seattleu.instructure.com/courses/1605219)
+
 ---
 
 ## Quarter Weeks
@@ -12,3 +16,5 @@
 [Week 8](w8.md) <br>
 [Week 9](w9.md) <br>
 [Week 10](w10.md) <br>
+
+
