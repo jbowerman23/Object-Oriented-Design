@@ -131,6 +131,88 @@ class Point{
     int getX() const;
 };
 ```
+---
+
+## Memory Allocation
+Stack is efficent but infelxible
+- Always add to next spot on stack
+
+<br> Heap much more flexible
+- Can find free space avaliable 
+- A lot slower to put something on the heap
+- Can have enough memory, not enough consecutive memory
+
+Can use stack, but once you leave the function, the stack gets cleaned up
+When using heap have to manually delete or else you get memory leaks
+
+```c++
+Point p; // goes on stack
+Point *p2 = new Point(3,4); // pointers go on heap, new says find memory on heap
+
+```
+
+# C#
+
+Value types
+
+Reference types
+
+Has a garbage collector
+- use more cpu power bc it is doing tasks in the background
+
+no equivalent to a destructor
+
+```c#
+
+private static void downloadGoogle()
+{
+  WebClient client = new();
+  string webpage = client.DownloadString("https://www.google.com/")
+  File.WriteAllText("google.html", webpage);
+}
+
+```
+
+WIth C# all class related stuff goes into one file a .cs file
+
+```c#
+internal class Point
+{
+  private int x; // each individual thing needs to be tagged with public/private
+  private int y;
+  
+  public int X { get; private set; } // Properties: things that look like fields but have built in getters and setters
+  public int Y { get; private set; }
+  
+  public Point(int x, int y)
+  {
+    this.x = x;
+    this.y = y;
+  }
+}
+
+```
+
+namespace helps organized code, if multiple classes with same name
+
+static methods dont have to create an instance to used that method
+
+cant have null variables without ? 
+
+```c#
+
+internal calss PizzaOrder
+{
+  private string? cheeze;
+  private string? sauce;
+  private bool isGlutenFree;
+  private int diameter = 14;
+  private List<String> toppings;
+  
+}
+
+
+```
 
 
 
