@@ -93,3 +93,7 @@ class Student {
 ## Class designer vs. Client
 - Class designer, come up with interface, implementation
 - Client, has to use the class
+
+---
+
+[Back to Week 1](w1.md)
