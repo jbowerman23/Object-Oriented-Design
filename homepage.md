@@ -17,4 +17,7 @@
 [Week 9](w9.md) <br>
 [Week 10](w10.md) <br>
 
+---
+
+![Computing Systems!](https://www.davidseek.com/content/images/2021/02/ood.png)
 
