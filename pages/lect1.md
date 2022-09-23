@@ -96,4 +96,4 @@ class Student {
 
 ---
 
-[Back to Week 1](w1.md)
+[Back to Week 1](../w1.md)
