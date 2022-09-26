@@ -52,6 +52,23 @@ Design by Contract, other name
   - Health is always non-negative for player in video game
 - Implementation invariants
   - Implementation notes  
+- Interface invariant
+
+### Method
+- Name
+- Parameters
+- Preconditions
+- Postcoditions
+- budy
+
+BCPL (Basic Common Programming Language) -> B -> C -> C++ -> Java -> C#
+
+- Comments
+- Assert
+- Language Feautre
+    - Usually compiled out in producted (Assert too)  
 
 
-[Week 2](../w2.md)
+
+
+# [Back to Week 2](../w2.md)
