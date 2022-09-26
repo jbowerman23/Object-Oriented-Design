@@ -1,4 +1,4 @@
-# Object Oriented Design
+# Object Oriented Design Notes
 ### By Jessica Bowerman
 ---
 
