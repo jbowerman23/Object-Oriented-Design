@@ -1,4 +1,7 @@
 # Programming by Contract
+---
+### Put the responsibility on the client to fufill the preconditions and postconditions
+- Must Trust Clients to do it right
 
 Classes: Levels of Complexity
 ---
@@ -67,6 +70,18 @@ BCPL (Basic Common Programming Language) -> B -> C -> C++ -> Java -> C#
 - Assert
 - Language Feautre
     - Usually compiled out in producted (Assert too)  
+
+----
+
+## Defensive Programming
+- Have a back up plan to every single case
+- Leads to exceptions
+- Not trusting user to not do this
+- Many if statements, null checks
+- Will never go super wrong, cause all cases are covered
+
+- All exceptions add overhead, slower
+
 
 
 
