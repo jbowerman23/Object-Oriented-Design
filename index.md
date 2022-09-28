@@ -3,6 +3,8 @@
 ---
 
 [Canvas Homepage](https://seattleu.instructure.com/courses/1605219)
+[PowerPoints](https://seattleu.instructure.com/courses/1605219/files/folder/PPT?)
+
 
 ---
 
