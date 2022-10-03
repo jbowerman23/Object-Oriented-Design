@@ -1,4 +1,8 @@
 # Classes in C++ and C#
+
+[Back to Homepage](../index.md) <br>
+[Back to Week 1](../w1.md)
+
 ---
 
 ## Review 
@@ -218,4 +222,4 @@ internal calss PizzaOrder
 
 
 
-[Back to Week 1](../w1.md)
+
