@@ -28,3 +28,6 @@ Cardinality
 - 1:k
   - fixed-size array or multiple fields 
 
+Ownership
+- I am responsible for new and/or delete
+
