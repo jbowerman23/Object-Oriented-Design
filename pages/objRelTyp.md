@@ -19,3 +19,12 @@ Inheritance
 Method paramter
 - uses a
 
+Cardinality
+- 1:1
+  - non-pointer
+  - pointer to 1
+- 1:n
+  - pointer to dynamic array
+- 1:k
+  - fixed-size array or multiple fields 
+
