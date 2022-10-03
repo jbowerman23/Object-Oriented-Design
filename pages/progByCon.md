@@ -1,4 +1,8 @@
 # Programming by Contract
+
+[Back to Homepage](../index.md) <br>
+[Back to Week 2](../w2.md)
+
 ---
 ### Put the responsibility on the client to fufill the preconditions and postconditions
 - Must Trust Clients to do it right
@@ -86,4 +90,4 @@ BCPL (Basic Common Programming Language) -> B -> C -> C++ -> Java -> C#
 
 
 
-# [Back to Week 2](../w2.md)
+
