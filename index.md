@@ -21,5 +21,5 @@
 
 ---
 
-![Computing Systems!](https://www.davidseek.com/content/images/2021/02/ood.png)
+![Computing Systems!](https://koenig-media.raywenderlich.com/uploads/2017/05/ObjectOrientedProgramming-feature.png)
 
