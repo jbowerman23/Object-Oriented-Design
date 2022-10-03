@@ -1,5 +1,10 @@
 # Unit Testing and Encapsulation
 
+[Back to Homepage](../index.md) <br>
+[Week 2](../w2.md)
+
+---
+
 ### Types of Testing
 - Unit
   - Testing small parts of code
@@ -46,4 +51,4 @@ constructor <br>
 |<br>
 destructor / Garbage collector
 
-[Week 2](../w2.md)
+
