@@ -1,4 +1,8 @@
 # Intro 
+
+[Back to Homepage](../index.md) <br>
+[Back to Week 1](../w1.md)
+
 ---
 
 ## Types of Programming
@@ -96,4 +100,4 @@ class Student {
 
 ---
 
-[Back to Week 1](../w1.md)
+
