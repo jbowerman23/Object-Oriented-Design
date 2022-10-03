@@ -2,7 +2,7 @@
 ### By Jessica Bowerman
 ---
 
-[Canvas Homepage](https://seattleu.instructure.com/courses/1605219)
+[Canvas Homepage](https://seattleu.instructure.com/courses/1605219) <br>
 [PowerPoints](https://seattleu.instructure.com/courses/1605219/files/folder/PPT?)
 
 
