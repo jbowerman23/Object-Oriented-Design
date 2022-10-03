@@ -1,4 +1,8 @@
 # Memory Management
+
+[Back to Homepage](../index.md) <br>
+[Week 2](../w2.md)
+
 ---
 ### There are only
 - Numbers
@@ -32,4 +36,4 @@
 
 
 
-[Week 2](../w2.md)
+
