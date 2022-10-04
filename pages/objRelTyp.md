@@ -7,17 +7,21 @@
 
 Containment
 - Holds a
+- Student holds a laptop
 - Member variable of other class
 
 Composition
 - Has a
+- Plane has an enginer
 
 Inheritance
 - is a
+- Intern is an employee
 - everything the other class has
 
 Method paramter
 - uses a
+- Test palindrome using stack
 
 Cardinality
 - 1:1
