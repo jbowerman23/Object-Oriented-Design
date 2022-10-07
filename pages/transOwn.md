@@ -12,6 +12,8 @@
   - delete when last one is destroyed
 - weak
   - option to get a shared pointer
+  - Shared pointer that doesnt contribute to the count
+  - If the thing got deleted, pointer will say it doesnt exist anymore
 
 - allows for easier memory management than raw pointers
 - allows more control than garbage collection
